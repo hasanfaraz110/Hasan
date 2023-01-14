@@ -14,7 +14,7 @@ Happy Gamming, Good Luck !
 
 
 
-This code is tested in code blocks ide udner windows OS and following screenshots are also provided for You.
+This code is tested in code blocks ide udner windows OS.
 
 
 
